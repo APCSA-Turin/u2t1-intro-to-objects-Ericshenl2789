@@ -1,3 +1,4 @@
+package U2T1;
 public class CatRunner {
     public static void main(String[] args) {
         Cat cat1 = new Cat("Sir Wiggles", 2, 22.2);
